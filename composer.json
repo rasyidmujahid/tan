@@ -38,7 +38,8 @@
     "vlucas/phpdotenv": "~1.0.9",
     "johnpbloch/wordpress": "4.2.2",
     "wpackagist-plugin/woocommerce": "2.3.11",
-    "wpackagist-theme/storefront": "1.4.6"
+    "wpackagist-theme/storefront": "1.4.6",
+    "wpackagist-plugin/wordpress-importer": "0.6.1"
   },
   "extra": {
     "installer-paths": {
