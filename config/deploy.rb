@@ -9,6 +9,8 @@ set :ssh_options, {
 set :branch, :master
 set :deploy_to, -> { "/var/www/html/#{fetch(:application)}" }
 set :log_level, :debug
+set :user, 'deploy'
+set :use_sudo, false
 
 SSHKit.config.command_map[:composer] = "php /var/local/composer/composer.phar"
 
