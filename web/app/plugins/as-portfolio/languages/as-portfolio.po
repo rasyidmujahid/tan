@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AS portfolio plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-25 18:05+0100\n"
+"PO-Revision-Date: 2015-03-25 18:06+0100\n"
+"Last-Translator: Alen Sirola <asirola@inet.hr>\n"
+"Language-Team: Aligator Studio <themes@aligator-studio.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../../plugins/as-portfolio\n"
+
+#: ../as-portfolio.php:65
+msgid "Portfolio"
+msgstr ""
+
+#: ../as-portfolio.php:66
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../as-portfolio.php:67
+msgid "Add New Item"
+msgstr ""
+
+#: ../as-portfolio.php:68 ../as-portfolio.php:70
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../as-portfolio.php:69
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../as-portfolio.php:71
+msgid "View Item"
+msgstr ""
+
+#: ../as-portfolio.php:72
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../as-portfolio.php:73
+msgid "No Portfolio items found"
+msgstr ""
+
+#: ../as-portfolio.php:74
+msgid "No Portfolio items found in trash"
+msgstr ""
+
+#: ../as-portfolio.php:189
+msgid "Thumbnail"
+msgstr ""
+
+#: ../as-portfolio.php:190
+msgid "Portfolio category"
+msgstr ""
+
+#: ../as-portfolio.php:191
+msgid "Tags"
+msgstr ""
+
+#: ../as-portfolio.php:192
+msgid "Author"
+msgstr ""
+
+#: ../as-portfolio.php:193
+msgid "Comments"
+msgstr ""
+
+#: ../as-portfolio.php:194
+msgid "Date"
+msgstr ""
+
+#: ../as-portfolio.php:232 ../as-portfolio.php:242
+msgid "None"
+msgstr ""
+
+#: ../as-portfolio.php:264
+msgid "portfolio Item"
+msgstr ""
+
+#: ../as-portfolio.php:275
+msgid "portfolio Item Pending"
+msgstr ""
+
+#: ../as-portfolio.php:299
+msgid ""
+"The title field and the big Post Editing Area are fixed in place, but you "
+"can reposition all the other boxes using drag and drop, and can minimize or "
+"expand them by clicking the title bar of each box. Use the Screen Options "
+"tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, "
+"Discussion, Slug, Author) or to choose a 1- or 2-column layout for this "
+"screen."
+msgstr ""
+
+#: ../as-portfolio.php:300
+msgid ""
+"<strong>Title</strong> - Enter a title for your post. After you enter a "
+"title, you&#8217;ll see the permalink below, which you can edit."
+msgstr ""
+
+#: ../as-portfolio.php:301
+msgid ""
+"<strong>Post editor</strong> - Enter the text for your post. There are two "
+"modes of editing: Visual and HTML. Choose the mode by clicking on the "
+"appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon "
+"in the row to get a second row of controls. The HTML mode allows you to "
+"enter raw HTML along with your post text. You can insert media files by "
+"clicking the icons above the post editor and following the directions. You "
+"can go the distraction-free writing screen, new in 3.2, via the Fullscreen "
+"icon in Visual mode (second to last in the top row) or the Fullscreen button "
+"in HTML mode (last in the row). Once there, you can make buttons visible by "
+"hovering over the top area. Exit Fullscreen back to the regular post editor."
+msgstr ""
+
+#: ../as-portfolio.php:302
+msgid ""
+"<strong>Publish</strong> - You can set the terms of publishing your post in "
+"the Publish box. For Status, Visibility, and Publish (immediately), click on "
+"the Edit link to reveal more options. Visibility includes options for "
+"password-protecting a post or making it stay at the top of your blog "
+"indefinitely (sticky). Publish (immediately) allows you to set a future or "
+"past date and time, so you can schedule a post to be published in the future "
+"or backdate a post."
+msgstr ""
+
+#: ../as-portfolio.php:303
+msgid ""
+"<strong>Post Format</strong> - This designates how your theme will display a "
+"specific post. For example, you could have a <em>standard</em> blog post "
+"with a title and paragraphs, or a short <em>aside</em> that omits the title "
+"and contains a short text blurb. Please refer to the Codex for <a href="
+"\"http://codex.wordpress.org/Post_Formats#Supported_Formats\">descriptions "
+"of each post format</a>. Your theme could enable all or some of 10 possible "
+"formats."
+msgstr ""
+
+#: ../as-portfolio.php:304
+msgid ""
+"<strong>Featured Image</strong> - This allows you to associate an image with "
+"your post without inserting it. This is usually useful only if your theme "
+"makes use of the featured image as a post thumbnail on the home page, a "
+"custom header, etc."
+msgstr ""
+
+#: ../as-portfolio.php:305
+msgid ""
+"<strong>Send Trackbacks</strong> - Trackbacks are a way to notify legacy "
+"blog systems that you&#8217;ve linked to them. Enter the URL(s) you want to "
+"send trackbacks. If you link to other WordPress sites they&#8217;ll be "
+"notified automatically using pingbacks, and this field is unnecessary."
+msgstr ""
+
+#: ../as-portfolio.php:306
+msgid ""
+"<strong>Discussion</strong> - You can turn comments and pings on or off, and "
+"if there are comments on the post, you can see them here and moderate them."
+msgstr ""
+
+#: ../as-portfolio.php:307 ../as-portfolio.php:327
+msgid "For more information:"
+msgstr ""
+
+#: ../as-portfolio.php:308
+msgid ""
+"<a href=\"http://codex.wordpress.org/Posts_Add_New_Screen\" target=\"_blank"
+"\">Documentation on Writing and Editing Posts</a>"
+msgstr ""
+
+#: ../as-portfolio.php:309 ../as-portfolio.php:329
+msgid ""
+"<a href=\"http://wordpress.org/support/\" target=\"_blank\">Support Forums</"
+"a>"
+msgstr ""
+
+#: ../as-portfolio.php:312
+msgid "You can customize the display of this screen in a number of ways:"
+msgstr ""
+
+#: ../as-portfolio.php:314
+msgid ""
+"You can hide/display columns based on your needs and decide how many posts "
+"to list per screen using the Screen Options tab."
+msgstr ""
+
+#: ../as-portfolio.php:315
+msgid ""
+"You can filter the list of posts by post status using the text links in the "
+"upper left to show All, Published, Draft, or Trashed posts. The default view "
+"is to show all posts."
+msgstr ""
+
+#: ../as-portfolio.php:316
+msgid ""
+"You can view posts in a simple title list or with an excerpt. Choose the "
+"view you prefer by clicking on the icons at the top of the list on the right."
+msgstr ""
+
+#: ../as-portfolio.php:317
+msgid ""
+"You can refine the list to show only posts in a specific category or from a "
+"specific month by using the dropdown menus above the posts list. Click the "
+"Filter button after making your selection. You also can refine the list by "
+"clicking on the post author, category or tag in the posts list."
+msgstr ""
+
+#: ../as-portfolio.php:319
+msgid ""
+"Hovering over a row in the posts list will display action links that allow "
+"you to manage your post. You can perform the following actions:"
+msgstr ""
+
+#: ../as-portfolio.php:321
+msgid ""
+"Edit takes you to the editing screen for that post. You can also reach that "
+"screen by clicking on the post title."
+msgstr ""
+
+#: ../as-portfolio.php:322
+msgid ""
+"Quick Edit provides inline access to the metadata of your post, allowing you "
+"to update post details without leaving this screen."
+msgstr ""
+
+#: ../as-portfolio.php:323
+msgid ""
+"Trash removes your post from this list and places it in the trash, from "
+"which you can permanently delete it."
+msgstr ""
+
+#: ../as-portfolio.php:324
+msgid ""
+"Preview will show you what your draft post will look like if you publish it. "
+"View will take you to your live site to view the post. Which link is "
+"available depends on your post&#8217;s status."
+msgstr ""
+
+#: ../as-portfolio.php:326
+msgid ""
+"You can also edit multiple posts at once. Select the posts you want to edit "
+"using the checkboxes, select Edit from the Bulk Actions menu and click "
+"Apply. You will be able to change the metadata (categories, author, etc.) "
+"for all selected posts at once. To remove a post from the grouping, just "
+"click the x next to its name in the Bulk Edit area that appears."
+msgstr ""
+
+#: ../as-portfolio.php:328
+msgid ""
+"<a href=\"http://codex.wordpress.org/Posts_Screen\" target=\"_blank"
+"\">Documentation on Managing Posts</a>"
+msgstr ""

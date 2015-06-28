@@ -1,0 +1,48 @@
+.tp-caption.olea_black_big_1 {
+font-size:3rem;
+font-weight:800;
+font-family:Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+text-transform:uppercase;
+color:#333;
+text-decoration:none;
+letter-spacing:0px;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(51, 51, 51);
+border-style:none;
+}
+
+.tp-caption.olea_black_line {
+font-size:0;
+color:#333333;
+text-decoration:none;
+letter-spacing:0px;
+background-color:transparent;
+height:1px;
+width:8rem;
+border-width:3px 0px 0px 0px;
+border-color:rgb(51, 51, 51);
+border-style:solid none none none;
+}
+
+.tp-caption.olea_largegreenbg {
+color:#ffffff;
+text-shadow:none;
+font-weight:300;
+font-size:50px;
+line-height:70px;
+font-family:"Montserrat","Open Sans", sans-serif;
+padding:0px 20px 0px 20px;
+background-color:rgb(103, 174, 115);
+background-color:rgba(103, 174, 115, 1);
+text-decoration:none;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+}
+
+.tp-caption.black {
+color:#000;
+text-shadow:none;
+}
+
