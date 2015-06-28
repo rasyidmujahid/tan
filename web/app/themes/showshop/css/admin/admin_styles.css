@@ -1,0 +1,311 @@
+/*********** PAGE BUILDER AS (aligator studio) STYLES *************/
+hr {
+clear: both;
+}
+
+.wp-editor-wrap {
+	z-index: 0;
+	clear: both;
+}
+/* 
+html * {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+} 
+*/
+/* WooCommerce admin styles fixes*/
+#wc-backbone-modal-dialog {
+	position: absolute;
+	z-index: 9998;
+}
+
+/* GLYPHS USED BOTH IN THEME OPTIONS AND PAGE BUILDER  */
+
+.glyphs {
+	position: relative;
+	width: 100%;
+	height:245px;
+	overflow: auto;
+	padding: 1px;
+	font-style: normal;
+}
+.glyph,
+.glyphs [class^="icon-"], .glyphs [class*="icon-"] {
+	font-size: 16px;
+	float: left;
+	text-align: center;
+	background: #EEE;
+	padding: .75em;
+	margin: 0 0.5em .5em 0;
+	width: 1.2em;
+	border-radius: 2px;
+	box-shadow: inset 0 0 0 1px #F8F8F8, 0 0 0 1px #CCC;
+}
+.glyph:hover,
+.glyphs [class^="icon-"]:hover, .glyphs [class*="icon-"]:hover {
+	background:#fff;
+	cursor: pointer;
+}
+.glyph:active,
+.glyphs [class^="icon-"]:active, .glyphs [class*="icon-"]:active {
+	background:#999;
+}
+.glyph label {
+	display:none
+}
+
+
+
+/* WP NAV MENU - CUSTOM FIELDS */
+
+.label-mega {
+	font-weight: bold;
+	color: #cc0000;
+}
+.label-clear {
+	font-weight: bold;
+	color: #008000;
+}
+.label-image {
+	font-weight: bold;
+	color: #0186C5;
+}
+
+/*  DISPLAY OR HIDE CUSTOM FIELDS  */
+/* 
+.custom-menu-megamenu {
+	display: none;
+}
+
+.menu-item-depth-0.menu-item-custom .custom-menu-megamenu { 
+	display: block;
+}
+
+.menu-item-depth-0.menu-item-custom .custom-menu-clear,
+.menu-item-depth-0.menu-item-custom .custom-menu-image,
+.custom-menu-clear  {
+	display: none;
+}
+*/
+.as-added-fields {
+  clear: both;
+  background: #FAFAFA;
+  overflow: auto;
+  padding: 0.5rem;
+  width: 93.8%;
+}
+.as-added-fields > div {
+	width: 45%;
+	height: 60px;
+	margin: 5px 2%;
+	border-bottom: 1px solid #F1F1F1;
+}
+
+.menu-item-custom .custom-menu-clear{
+	display: block;
+}
+.custom-menu-image {
+	display: table;
+}
+
+.custom-menu-image .image-holder {
+	position: relative;
+	clear: both;
+	float: left;
+	margin-bottom: 20px;
+}
+
+.custom-menu-image .image-holder .as_upload_button {
+	position: absolute;
+	left: 15px;
+	bottom: -15px;
+}
+.custom-menu-image .image-holder .remove-media {
+	position: absolute;
+	left: 0;
+}
+.custom-menu-image .image-holder img.att-image {
+	width: 50%;
+	float: left;
+}
+
+#menu-settings-column.stick-it {
+	position: fixed;
+	top: 50px;
+	z-index: 100;
+	overflow: auto;
+}
+
+/* end WP NAV MENU - CUSTOM FIELDS */
+
+
+#image-metabox #postimagediv {
+	border:none;
+}
+
+#image-metabox #postimagediv .handlediv,
+#image-metabox #postimagediv .hndle {
+	display:none;
+}
+
+.theme_documentation a {
+	font-weight: bold !important;
+	color: #9FE0D1 !important;
+}
+.theme_documentation img {
+	margin: 7px 5px -4px 0 !important;
+	height: 16px !important;
+	width: auto !important;
+}
+
+/* yith remove banner */
+.yith_banner {
+	display: none;
+	opacity: 0;
+	visibility: hidden;
+}
+
+
+/**
+ *  CUSTOM META BOXES
+ *
+ */
+#post-format-tabs { 
+	background:none; 
+	padding:0; 
+	border:none;
+	margin-bottom: -15px;
+	z-index: 2;
+}
+
+#post-format-tabs .handlediv,
+#post-format-tabs .hndle,
+#post-format-tabs #post-formats-select > br {display:none;}
+#post-format-tabs .inside {
+	padding:0;
+}
+
+#post-format-tabs #post-formats-select {
+	background: none;
+	border: none;
+	padding: 0;
+	position: relative;
+	z-index: 1;
+	margin-bottom: 14px;
+}
+
+#post-format-tabs #post-formats-select label {
+	background-color: #FFF;
+	padding: 2px 6px 8px;
+	font-weight: normal;
+	font-size: 13px;
+	letter-spacing: -0.02em;
+	border-style: solid;
+	border-width: 1px 1px 0;
+	color: #AAA;
+	text-shadow: #FFF 0 1px 0;
+	line-height: 16px;
+	display: inline-block;
+	text-decoration: none;
+	margin: 0;
+	-webkit-border-top-left-radius: 3px;
+	-webkit-border-top-right-radius: 3px;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	border-color: #E5E5E5;
+}
+.post-format-icon.post-format-standard { background-position: 5px 7px; }
+.post-format-icon.post-format-audio { background-position: 5px -87px; }
+.post-format-icon.post-format-video { background-position: 5px -120px; }
+.post-format-icon.post-format-gallery { background-position: 5px -55px; }
+.post-format-icon.post-format-image { background-position: 5px -25px; }
+.post-format-icon.post-format-quote { background-position: 5px -248px; }
+
+input.post-format {
+	display: none;
+}
+
+#post-format-tabs #post-formats-select label.ui-state-active,
+#post-format-tabs #post-formats-select input[type=radio]:checked+label {
+	border-bottom-color: #FFF;
+	color: #868686;
+	border-width: 2px;
+}
+
+
+.CMB_Select .select2-container .select2-choice > .select2-chosen,
+.CMB_Select .select2-container .select2-choice span {
+	margin-right: 0;
+}
+
+/** END CUSTOM META BOXES*/
+
+
+/** VISUAL COMPOSER  */
+
+.vc_element-icon.as_ajax_prod,
+.vc_element-icon.as_ajax_cats,
+.vc_element-icon.as_filter_cats,
+.vc_element-icon.as_filter_prod,
+.vc_element-icon.as_prod_category,
+.vc_element-icon.as_prod_cats,
+.vc_element-icon.as_slick_slider,
+.vc_element-icon.as_superslides,
+.vc_element-icon.as_single_prod,
+.vc_element-icon.as_single_prod_cat,
+.vc_element-icon.as_prod_cat_single,
+.vc_element-icon.as_menu,
+.vc_element-icon.as_social,
+.vc_element-icon.as_banner,
+.vc_element-icon.as_testimonials,
+.vc_element-icon.as_images_slider,
+.vc_element-icon.as_single_lookbook ,
+.vc_element-icon.as_gmap,
+.vc_element-icon.as_heading,
+.vc_element-icon.as_contact,
+.vc_element-icon.as_video, 
+.vc_element-icon.as_widget_areas
+{
+	background-image: url(../../img/as_vc_icon.svg);
+}
+.wpb_el_type_separator {
+	clear: both;
+	display: block;
+	border-bottom-style: double;
+	border-bottom-color: #D1D1D1;
+	border-bottom-width: 4px;
+	text-align: center;
+	margin: 20px 15px;
+	width: auto;
+	float: none;
+}
+.wpb_el_type_separator:after {
+	content: "";
+	display: block;
+	position: relative;
+	width: 100%;
+	height: 1px;
+}
+
+.wpb_el_type_separator:first-child {
+	margin-top: 0;
+}
+.wpb_el_type_separator .wpb_element_label {
+	background: #FFF;
+	display: inline-block;
+	padding: 10px;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+}
+
+.vc_properties-list select {
+	height: 2.2rem;
+	padding: 0.2rem;
+}
+.vc_checkbox-label {
+	display: block;
+}

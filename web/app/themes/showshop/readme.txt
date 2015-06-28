@@ -1,0 +1,1 @@
+﻿Please read the documentation by following the link "Theme documentation" in Wordpress admin toolbar

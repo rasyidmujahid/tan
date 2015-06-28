@@ -1,0 +1,4290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Showshop WP theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-05 18:43+0100\n"
+"PO-Revision-Date: 2015-06-05 18:43+0100\n"
+"Last-Translator: Alen Sirola <asirola@inet.hr>\n"
+"Language-Team: Aligator Studio <themes@aligator-studio.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;esc_html__;esc_html_e;"
+"esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: documentation\n"
+
+#: 404.php:31
+msgid "Page missing - 404"
+msgstr ""
+
+#: 404.php:50
+msgid "Something went wrong"
+msgstr ""
+
+#: 404.php:51
+msgid "This search can help you find what you need"
+msgstr ""
+
+#: 404.php:58
+msgid "The reason why you're seeing this page could be one of the following:"
+msgstr ""
+
+#: 404.php:61
+msgid "You clicked the broken link"
+msgstr ""
+
+#: 404.php:62
+msgid "You typed incorrect link directly in the address bar"
+msgstr ""
+
+#: 404.php:63
+msgid "There is a glitch in the server, database or system, or"
+msgstr ""
+
+#: 404.php:64
+msgid "Maybe, but just maybe, it might be our mistake"
+msgstr ""
+
+#: admin/admin-interface.php:111 admin/admin-interface.php:136
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/admin-interface.php:138
+msgid "Options Reset"
+msgstr ""
+
+#: admin/admin-interface.php:844
+msgid "Click OK to backup your current saved options."
+msgstr ""
+
+#: admin/admin-interface.php:891
+msgid ""
+"Warning: All of your current options will be replaced with the data from "
+"your last backup! Proceed?"
+msgstr ""
+
+#: admin/admin-interface.php:1030
+msgid "Click OK to reset. All settings will be lost!"
+msgstr ""
+
+#: admin/admin-interface.php:2431
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/admin-interface.php:2537 admin/admin-interface.php:2564
+msgid "delete"
+msgstr ""
+
+#: admin/admin-interface.php:2553
+msgid "Add"
+msgstr ""
+
+#: admin/admin-interface.php:2635
+msgid "Upload"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:223
+msgid "Accent colors background"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:244
+msgid ""
+"Use theme accent colors for background. Accent colors are set in skins and/"
+"or theme options."
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:246 as_vc_extend/as_vc_init.php:266
+#: as_vc_extend/as_vc_init.php:276 as_vc_extend/as_vc_init.php:286
+#: as_vc_extend/as_vc_init.php:467
+msgid "Design Options"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:261
+msgid "Parallax background image"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:263 as_vc_extend/as_vc_init.php:294
+#: as_vc_extend/as_vc_init.php:304 as_vc_extend/as_vc_init.php:315
+#: as_vc_extend/as_vc_init.php:336 as_vc_extend/as_vc_init.php:346
+#: as_vc_extend/as_vc_init.php:357 as_vc_extend/as_vc_init.php:378
+#: as_vc_extend/as_vc_init.php:474
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:89
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:316
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:325
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:343
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:352
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:361
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:428
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:437
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:446
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:508
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:89
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:282
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:292
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:302
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:338
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:368
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:377
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:386
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:406
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:483
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:132
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:265
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:89
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:187
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:90
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:169
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:254
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:288
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:297
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:343
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:408
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:89
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:165
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:259
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:269
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:279
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:353
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:363
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:401
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:90
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:278
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:97
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:183
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:89
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:227
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:236
+#: as_vc_extend/shortcodes-mapping/as_menu_params.php:89
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:89
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:89
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:89
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:213
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:223
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:233
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:245
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:89
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:147
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:157
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:260
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:270
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:280
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:290
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:346
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:355
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:364
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:450
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:89
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:186
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:196
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:248
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:258
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:124
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:319
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:329
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:340
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:360
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:369
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:388
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:415
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:89
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:125
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:316
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:325
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:352
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:362
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:89
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:212
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:221
+#: as_vc_extend/shortcodes-mapping/as_video_params.php:89
+#: as_vc_extend/shortcodes-mapping/as_widget_areas_params.php:89
+msgid "Yes, please"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:264
+msgid "check if you want to use parallax effect on background image"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:272
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:207
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:185
+msgid "Overlay color"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:275
+msgid ""
+"Choose color for overlay - between content and (paralax) background image"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:281
+msgid "Overlay opacity"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:284
+msgid "Default opacity for overlay - (change it, if you must)"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:292
+msgid "Boxed content?"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:295
+msgid ""
+"in case you're using \"Page builder template\" and want content boxed (NO "
+"fullwidth)"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:297 as_vc_extend/as_vc_init.php:307
+#: as_vc_extend/as_vc_init.php:318
+msgid "Theme row settings"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:302
+msgid "Add grid spacing"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:305
+msgid "add spaces between elements inside this row"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:313
+msgid "Equalize row elements"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:316
+msgid ""
+"careful with this - an lead to undesired effects. Works only with theme "
+"blocks."
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:324
+msgid "YouTube video ID"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:327
+msgid "Enter ONLY video ID, not the whole address"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:329 as_vc_extend/as_vc_init.php:339
+#: as_vc_extend/as_vc_init.php:349 as_vc_extend/as_vc_init.php:360
+#: as_vc_extend/as_vc_init.php:370 as_vc_extend/as_vc_init.php:381
+#: as_vc_extend/as_vc_init.php:391 as_vc_extend/as_vc_init.php:410
+#: as_vc_extend/as_vc_init.php:423 as_vc_extend/as_vc_init.php:434
+#: as_vc_extend/as_vc_init.php:446
+msgid "Theme row video settings"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:334
+msgid "Autoplay video"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:344
+msgid "Mute video"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:355
+msgid "Optimize display"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:376
+msgid "Loop video"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:386
+msgid "Video sound volume"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:389
+msgid "Enter value between 0 - 100"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:397
+msgid "Video quality"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:415
+msgid "Video ratio"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:429
+msgid "Embedded HTML 5 video"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:439
+msgid "HTML 5 video"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:442
+msgid ""
+"<strong>Self hosted video URL or URL to remote video files. </strong><br>\n"
+"\t\t\tEnter full path to video file name and exclude extension - the mp4, "
+"webm and ogg extension will be added automatically.<br>\n"
+"\t\t\tAll required video file types OGV, WEBB and OGG files should be "
+"available (locally, self-hosted, or remote) for browser compatibility."
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:463
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:197
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:69
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:175
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:298
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:283
+msgid "Text color"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:466
+msgid ""
+"Choose color for text - general column setting - can be overriden by inner "
+"elements settings"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:472
+msgid "Sticky column settings"
+msgstr ""
+
+#: as_vc_extend/as_vc_init.php:477
+msgid "Sticky column"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:5
+msgid "Ajax load content"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:10
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:10
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:10
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:10
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:11
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:10
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:10
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:10
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:10
+#: as_vc_extend/shortcodes-mapping/as_menu_params.php:10
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:10
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:10
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:10
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:10
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:10
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:439
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:10
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:396
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:10
+#: as_vc_extend/shortcodes-mapping/as_video_params.php:10
+#: as_vc_extend/shortcodes-mapping/as_widget_areas_params.php:10
+msgid "ShowShop theme elements"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:18
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:18
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:18
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:19
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:18
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:18
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:18
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:18
+#: as_vc_extend/shortcodes-mapping/as_menu_params.php:18
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:18
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:18
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:18
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:18
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:18
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:53
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:18
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:54
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:18
+#: as_vc_extend/shortcodes-mapping/as_video_params.php:18
+#: as_vc_extend/shortcodes-mapping/as_widget_areas_params.php:18
+msgid "Element title"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:29
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:29
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:29
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:30
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:29
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:29
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:28
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:29
+#: as_vc_extend/shortcodes-mapping/as_menu_params.php:29
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:29
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:29
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:29
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:29
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:29
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:64
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:29
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:65
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:29
+#: as_vc_extend/shortcodes-mapping/as_video_params.php:29
+#: as_vc_extend/shortcodes-mapping/as_widget_areas_params.php:29
+msgid "Element subtitle"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:39
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:39
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:39
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:40
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:39
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:39
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:38
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:39
+#: as_vc_extend/shortcodes-mapping/as_menu_params.php:39
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:39
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:39
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:39
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:39
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:39
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:74
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:39
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:75
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:39
+#: as_vc_extend/shortcodes-mapping/as_video_params.php:39
+#: as_vc_extend/shortcodes-mapping/as_widget_areas_params.php:39
+msgid "Element title style"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:53
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:53
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:53
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:54
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:53
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:53
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:52
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:53
+#: as_vc_extend/shortcodes-mapping/as_menu_params.php:53
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:53
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:53
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:53
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:53
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:53
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:88
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:53
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:89
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:53
+#: as_vc_extend/shortcodes-mapping/as_video_params.php:53
+#: as_vc_extend/shortcodes-mapping/as_widget_areas_params.php:53
+msgid "Element subtitle style"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:67
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:67
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:67
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:68
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:67
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:67
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:66
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:67
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:196
+#: as_vc_extend/shortcodes-mapping/as_menu_params.php:67
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:67
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:67
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:67
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:67
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:67
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:102
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:67
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:103
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:67
+#: as_vc_extend/shortcodes-mapping/as_video_params.php:67
+#: as_vc_extend/shortcodes-mapping/as_widget_areas_params.php:67
+msgid "Title color"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:77
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:77
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:77
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:78
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:77
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:77
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:75
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:77
+#: as_vc_extend/shortcodes-mapping/as_menu_params.php:77
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:77
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:77
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:77
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:77
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:77
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:112
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:77
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:113
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:77
+#: as_vc_extend/shortcodes-mapping/as_video_params.php:77
+#: as_vc_extend/shortcodes-mapping/as_widget_areas_params.php:77
+msgid "Subtitle color"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:87
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:87
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:87
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:88
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:87
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:88
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:95
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:87
+#: as_vc_extend/shortcodes-mapping/as_menu_params.php:87
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:87
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:87
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:87
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:87
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:87
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:122
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:87
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:123
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:87
+#: as_vc_extend/shortcodes-mapping/as_video_params.php:87
+#: as_vc_extend/shortcodes-mapping/as_widget_areas_params.php:87
+msgid "Remove title shadow"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:90
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:90
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:90
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:91
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:90
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:91
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:98
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:90
+#: as_vc_extend/shortcodes-mapping/as_menu_params.php:90
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:90
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:90
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:90
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:90
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:90
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:125
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:90
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:126
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:90
+#: as_vc_extend/shortcodes-mapping/as_video_params.php:90
+#: as_vc_extend/shortcodes-mapping/as_widget_areas_params.php:90
+msgid "heading shadow is transparent duplicated title text, under the title"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:97
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:97
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:97
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:98
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:97
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:98
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:105
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:97
+#: as_vc_extend/shortcodes-mapping/as_menu_params.php:97
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:97
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:97
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:97
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:98
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:97
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:132
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:97
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:133
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:97
+#: as_vc_extend/shortcodes-mapping/as_video_params.php:97
+#: as_vc_extend/shortcodes-mapping/as_widget_areas_params.php:97
+msgid "Title additional sizing"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:113
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:113
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:216
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:113
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:114
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:113
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:114
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:151
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:113
+#: as_vc_extend/shortcodes-mapping/as_menu_params.php:113
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:113
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:113
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:127
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:114
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:128
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:113
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:113
+#: as_vc_extend/shortcodes-mapping/as_widget_areas_params.php:113
+msgid "Viewport enter animation"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:122
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:123
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:113
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:113
+msgid "Block style"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:146
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:137
+msgid "Post types and categories"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:155
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:145
+msgid "Post types"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:170
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:239
+msgid "Taxonomy menu style"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:185
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:263
+msgid "Taxonomy menu alignment"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:208
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:157
+msgid "Post categories"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:211
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:160
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:177
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:204
+msgid "select one or multiple, \"Post types\" must be set to \"Post\""
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:219
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:176
+msgid "Portfolio  categories"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:222
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:232
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:179
+msgid "select one or multiple, \"Post types\" must be set to \"Portfolio\""
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:229
+msgid "Product  categories"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:241
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:217
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:186
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:195
+msgid "Image settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:250
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:226
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:151
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:195
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:212
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:141
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:204
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:167
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:227
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:221
+msgid "Image format"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:266
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:211
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:229
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:194
+msgid "Custom image width"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:275
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:220
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:238
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:205
+msgid "Custom image height"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:294
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:355
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:297
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:333
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:261
+msgid "Total items"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:297
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:358
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:309
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:300
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:336
+msgid "If empty, all items will e showed."
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:304
+msgid "Offset"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:307
+msgid ""
+"if offset is 3, posts list will start with 3rd post (first 2 are skipped)"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:314
+msgid "No post thumbnail"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:317
+msgid "Display only item title and excerpt (simple posts list)."
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:323
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:167
+msgid "Show only featured ?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:326
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:170
+msgid "show only featured posts or portfolio items"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:341
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:366
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:344
+msgid "Disable slider"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:350
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:375
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:225
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:353
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:210
+msgid "Hide slider navigation?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:353
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:378
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:228
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:356
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:187
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:213
+msgid "use prev / next arrows"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:359
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:384
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:234
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:362
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:219
+msgid "Hide slider pagination?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:362
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:387
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:237
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:365
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:197
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:222
+msgid "pagination dots bellow the slider"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:369
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:394
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:244
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:372
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:204
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:376
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:340
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:229
+#: inc/functions/as-meta-boxes.php:128
+msgid "Slider timing"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:372
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:397
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:247
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:375
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:207
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:232
+msgid "If empty, no automatic sliding will happen."
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:379
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:414
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:256
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:381
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:241
+msgid "Responsive slider settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:388
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:423
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:265
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:390
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:250
+msgid "Items in desktop view"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:398
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:433
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:276
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:400
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:261
+msgid "Items in tablet view"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:407
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:442
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:285
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:409
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:270
+msgid "Items in mobile view"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:426
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:286
+msgid "Hide zoom button?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:429
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:289
+msgid "display button for zooming image"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:435
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:295
+msgid "Hide link button ?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:438
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:298
+msgid "display button with link to post/portfolio item"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:444
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:404
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:341
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:361
+msgid "Force item spacing"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:447
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:407
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:364
+msgid ""
+"replace default item floating (without spaces between items) with added "
+"spacing (theme grid).<strong>NOTE: recommended usage when \"boxed content\" "
+"in row settings checked</strong>"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:453
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:244
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:222
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:267
+msgid "Animations settings for items"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:461
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:252
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:360
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:324
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:230
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:275
+msgid "Hover image animation"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:470
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:369
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:333
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:239
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:284
+msgid "Post text animation"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:473
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:372
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:242
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:287
+msgid "APPLICABLE ONLY FOR BLOCK STYLE 3"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:479
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:454
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:379
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:371
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:313
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:421
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:293
+msgid "Additional settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:488
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:463
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:245
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:388
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:381
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:430
+#: inc/functions/as-meta-boxes.php:384
+msgid "Button label"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:491
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:466
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:248
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:391
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:384
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:433
+msgid ""
+"If this setting is empty, and link is set, link will apply to whole banner."
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:497
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:472
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:254
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:397
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:390
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:439
+msgid "Add link"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:506
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:481
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:263
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:406
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:399
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:448
+msgid "Outlined button ?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:509
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:484
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:266
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:409
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:402
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:451
+msgid "Convert button to outlined button without background."
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:545
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:528
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:281
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:204
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:446
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:440
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:294
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:231
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:305
+#: as_vc_extend/shortcodes-mapping/as_menu_params.php:145
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:173
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:216
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:322
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:495
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:302
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:423
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:280
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:380
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:290
+#: as_vc_extend/shortcodes-mapping/as_video_params.php:173
+#: as_vc_extend/shortcodes-mapping/as_widget_areas_params.php:153
+msgid "Additional CSS classes"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_cats_params.php:548
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:531
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:284
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:207
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:449
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:443
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:297
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:234
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:308
+#: as_vc_extend/shortcodes-mapping/as_menu_params.php:148
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:176
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:219
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:325
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:498
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:305
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:283
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:293
+#: as_vc_extend/shortcodes-mapping/as_video_params.php:176
+#: as_vc_extend/shortcodes-mapping/as_widget_areas_params.php:156
+msgid "Adds a wrapper div with additional css classes for more styling control"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:5
+msgid "Ajax load products"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:123
+msgid "Product categories and menu settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:133
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:131
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:122
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:5
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:122
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:15
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:15
+#: woocommerce/archive-product.php:84
+msgid "Product categories"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:136
+msgid ""
+"select one or multiple product categories (if none, it will display all)"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:144
+msgid "Product categories menu style"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:158
+msgid "Menu items in a row"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:175
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:174
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:163
+msgid "Categories menu alignment"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:188
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:166
+msgid "Menu color settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:200
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:178
+msgid "If categories images - choose color for text"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:210
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:188
+msgid "If categories images - choose color for image overlay"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:261
+msgid "Product buttons and title animation"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:271
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:249
+msgid "Products settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:280
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:211
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:258
+msgid "Hide \"Quick view\" button ?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:290
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:221
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:268
+msgid "Hide \"Add to cart/Select options\" button ?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:300
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:231
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:278
+msgid "Hide \"Add to wishlist\" button ?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:303
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:234
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:281
+msgid "Yith WooCommerce Wishlist plugin must be installed"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:319
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:197
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:307
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:245
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:239
+msgid "Special filters"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:328
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:316
+msgid "make a special selection with these filters"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:336
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:351
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:243
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:288
+msgid "Smaller buttons and text"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_ajax_prod_params.php:339
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:354
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:246
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:291
+msgid ""
+"make item elements ( title, buttons, price text ) smaller, in case of many "
+"items in row/smaller images"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:5
+msgid "Banner"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:18
+msgid "Banner text settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:26
+msgid "Banner title"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:36
+msgid "Title size"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:50
+msgid "Banner subtitle"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:60
+msgid "Banner text"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:72
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:157
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:166
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:200
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:209
+msgid "Choose text color"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:78
+msgid "Text float"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:92
+msgid "Text padding"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:95
+msgid "If zero or empty, it will be ignored"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:102
+msgid "Text border style"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:130
+msgid "Disable invert colors on hover effect"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:139
+msgid "TEXT overlay color"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:142
+msgid "Choose overlay color"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:159
+msgid "Banner overlay color"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:162
+msgid ""
+"Choose overlay color for all block (text block has it's separate color "
+"controls )"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:169
+msgid "Banner opacity"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:172
+msgid "Enter value AND unit (px, em, rem, %)"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:179
+msgid "Banner height"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:182
+msgid "add value AND unit ( px, em, rem, % ) for stretch banner height "
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:191
+msgid "Additional layout and styles settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:198
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:252
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:311
+#: as_vc_extend/shortcodes-mapping/as_widget_areas_params.php:132
+msgid "Css"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:207
+msgid "Animation settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:225
+msgid "Animation delay"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:228
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:126
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:164
+msgid ""
+"Type the value for delay of block animation delay. Use the miliseconds "
+"( 1second = 1000 miliseconds; example: 100 for 1/10th of second )"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_banner_params.php:236
+msgid "Button settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:5
+msgid "Contact form"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:122
+msgid "Recipient email address (required)"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:141
+msgid "Location image (optional)"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:144
+msgid "Select image to represent your location."
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:175
+msgid "Location description"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_contact_params.php:185
+msgid "Disable auto paragraphs"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:6
+msgid "Filtered content"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:230
+msgid "Menu settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:252
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:163
+msgid "Show sorting dropdown ?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:255
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:166
+msgid ""
+"choose to display sorting dropdown menu ( with options - default, by title, "
+"by date)"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:277
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:288
+msgid "Item settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:306
+msgid "Total number of items"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:316
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:307
+msgid "Items in one row"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:344
+msgid ""
+"replace default item floating (without spaces between items) with added "
+"spacing (theme grid). <strong>NOTE: recommended usage when \"boxed content\" "
+"in row settings checked</strong>"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_cats_params.php:352
+msgid "Animations settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:5
+msgid "Filtered products"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:122
+msgid "Product categories and categories menu"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:134
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:125
+msgid "select one or multiple product categories"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:149
+msgid "Categories menu style"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:188
+msgid "Filters and image settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:248
+msgid "Item buttons"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:257
+msgid "Hide quick view button: "
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:260
+msgid "hide button for quick product view"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:267
+msgid "Hide buy button: "
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:270
+msgid "hide button for add to cart/select options"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:277
+msgid "Hide wishlist button: "
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_filter_prod_params.php:280
+msgid "hide button for add to wishlist"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:5
+msgid "Google map"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:123
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:161
+msgid "Animation delay ( in milliseconds )"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:132
+msgid "Enter full address for google map search"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:140
+msgid "Address (street)"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:150
+msgid "Address (town, country)"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:168
+msgid "Address ( additional info )"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:176
+msgid "Location image"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:179
+msgid "Select image for location."
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:193
+msgid "Location latitude"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:202
+msgid "Location longitude"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:220
+msgid "Map color"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:223
+msgid "Pick the map color"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:229
+msgid "Map width"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:238
+msgid "Map height"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:257
+msgid "Map desaturation"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:260
+#, php-format
+msgid "Enter a percentage value from 0 -100, WITHOUT % unit"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:266
+msgid "Map zoom level"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:269
+msgid "Enter a number value from 0 - 20, WITHOUT any units"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:276
+msgid "Disable scroll zoom"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_gmap_params.php:279
+msgid "Disable map zooming on mousewheel scroll"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:5
+msgid "Heading"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:86
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:262
+msgid "Background color"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:124
+msgid "Heading tag"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:135
+msgid "Use wisely - heading tag affects the semantic structure and SEO."
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:172
+msgid "Absolute heading positioning"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:181
+msgid "Position heading to absolute ?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:184
+msgid "absolute heading is related to first relative parent"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:193
+msgid "Top position"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:196
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:206
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:216
+msgid "enter value AND unit (px, em, rem or %)"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:203
+msgid "Left position"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:213
+msgid "Right position"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:246
+msgid "Settings bellow will apply to heading ONLY and not subititle"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:248
+#: as_vc_extend/shortcodes-mapping/as_heading_params.php:254
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:313
+msgid "Design options"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:5
+msgid "Images slider"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:125
+msgid "Title and description can be added for each image."
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:131
+msgid "Images"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:134
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:146
+msgid "Select images from media library."
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:158
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:152
+msgid "Image style"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:170
+msgid "Titles"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:172
+msgid "Image title 1,Image title 2,Image title 3"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:173
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:167
+msgid "Use new line (press Enter) for each author"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:178
+msgid "Description"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:181
+msgid "Use new line (press Enter) for each description text"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:187
+msgid "Description text color"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_images_slider_params.php:205
+msgid "Hover overlay color"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_menu_params.php:5
+msgid "Custom menu"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_menu_params.php:122
+msgid "Select menu to display"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_menu_params.php:125
+msgid "Menu must be created first, in WP admin - Appearance > Menus"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:5
+msgid "Product category (image)"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:125
+msgid "select single product category"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:134
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:177
+#: inc/widgets/latest-custom-posts.php:147
+msgid "Image width"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:143
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:186
+msgid "Image height"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:154
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:197
+msgid "Text over category image color"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_prod_category_params.php:163
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:206
+msgid "Category image overlay color"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:132
+msgid "Categories menu"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:145
+msgid "Menu columns"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_prod_cats_params.php:156
+msgid "applies only if categories menu is \"With images\""
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:5
+msgid "Single lookbook"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:146
+msgid "Select lookbook item"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:157
+msgid "Lookbook item image settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:166
+#: inc/functions/as-meta-boxes.php:582
+msgid "Main lookbook image format"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:183
+msgid "Products image format"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:201
+msgid "Lookbook products settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:253
+msgid "Background settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:265
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:226
+msgid "Choose background color"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:273
+msgid "Background color opacity"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:291
+msgid "Lookbook additional content"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_lookbook_params.php:300
+msgid "Text to display"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:5
+msgid "Single category products"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:124
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:134
+msgid "Product category"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:137
+msgid "select one product category to display products from."
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:145
+msgid "Force hiding title (category name)"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:148
+msgid ""
+"by default, if no elements title set, category name will be displayed. This "
+"will force hide it. "
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:155
+msgid "Force hiding subtitle (category description)"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_prod_cat_params.php:158
+msgid ""
+"by default, if no elements subtitle set, category description (if entered in "
+"Products > Categories > [category]) will be displayed. This will force hide "
+"it. "
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:5
+msgid "Single product"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:147
+msgid "Select product"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:158
+msgid "Product image and gallery slider settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:184
+msgid "Slider navigation?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:194
+msgid "Slider pagination?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:214
+msgid "Display options"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:223
+msgid "Product info background"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:233
+msgid "Product details options"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:246
+msgid "Hide product short description ?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:256
+msgid "Hide product image ?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_single_prod_params.php:259
+msgid ""
+"if you hide product image, there's still an option of row background image."
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:18
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:18
+msgid "select one or multiple, \"Post types\" must be set to \"Products\""
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:34
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:34
+msgid "Portfolio categories"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:37
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:37
+msgid ""
+"select one or multiple, \"Post types\" must be set to \"Portfolio categories"
+"\""
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:148
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:164
+msgid "Post type and categories"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:157
+msgid "Post type"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:174
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:201
+msgid "Blog post categories"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:185
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:212
+msgid "Image settings and filtering"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:197
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:208
+msgid "enter only value, units are hardcoded in pixels"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:217
+msgid ""
+"custom image width and height will override image format setting, but both "
+"width and height values must be set"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:264
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:306
+msgid "how many items will scroll in slick scroller ?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:272
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:257
+msgid "Style and effects settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:280
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:265
+msgid "Background color for text"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:283
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:268
+msgid "Choose background color for item text (title, excerpt)"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:289
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:274
+msgid "Links color"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:292
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:277
+msgid "Choose color for item links"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:301
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:286
+msgid "Choose color for item text"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:317
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:360
+msgid "Use KenBurns effect ?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:320
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:363
+msgid "KenBurns effect is slowly zooming and panning image"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:327
+msgid "Hide text layer (title and excerpt)"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:338
+msgid "Use text layer animation ?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:349
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:294
+msgid "Slider settings"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:358
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:314
+msgid "Show navigation arrows ?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:367
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:323
+msgid "Show navigation dots ?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:379
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:343
+msgid ""
+"type in the timing for auto sliding items. If left blank no auto sliding "
+"will occur."
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:386
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:350
+msgid "Fade images"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:389
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:353
+msgid "Use fading images instead of sliding"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:396
+msgid "Thumbnails format"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:413
+msgid "Hide thumbnails navigation ?"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:426
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:383
+msgid "add your custom css classes"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_slick_slider_params.php:434
+msgid "Slick slider"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:5
+msgid "Social links"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:122
+msgid "Enter social links"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:131
+msgid "Facebook"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:134
+msgid "add link to your Facebook profile/page/group"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:141
+msgid "Twitter"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:144
+msgid "add link to your Twitter account"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:151
+msgid "Instagram"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:154
+msgid "add link to your Instagram account"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:161
+msgid "LinkedIn"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:164
+msgid "add link to your LinkedIn account"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:171
+msgid "Google +"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:174
+msgid "add link to your Google plus account"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:181
+msgid "Pinterest"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:184
+msgid "add link to your Pinterest account"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:192
+msgid "Tubmlr"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:195
+msgid "add link to your Tumblr page"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:202
+msgid "Dribbble"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:205
+msgid "add link to your Dribbble account"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:212
+msgid "Skype"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:215
+msgid "add your Skype contact"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:233
+msgid "Social icons size"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:247
+msgid "Social icons align"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_social_params.php:260
+msgid "Social icons in row"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:150
+msgid "Stretched of fixed"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:156
+msgid ""
+"- If <strong>\"Stretch\"</strong>, the slider will resize (width and height) "
+"with other elements in row.<strong><br>NOTE:<br>- Row settings must have "
+"checked \"Equalize row elements\" (Theme row settings tab)<br>- If set to "
+"\"Stretched\" the \"Set slides height\" will be overriden<br>- Use "
+"\"Stretched\" only with other elements in row. </strong>"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:173
+msgid "Post type or images"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:181
+msgid ""
+"Display post, products, portfolio or selection of images from media library"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:187
+msgid "Slide images"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:190
+msgid ""
+"Select images from media library images for slide. Must have selected "
+"\"Images\" from option above"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:303
+msgid "Total items (slides)"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:370
+msgid "Set slides height"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:373
+msgid ""
+"Will add responsiveness to slides.<br>Enter the value <strong>AND</strong> "
+"units (<strong>px</strong>, <strong>pt</strong>,<strong> em</strong> or "
+"<strong>rem</strong>)"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_superslides_params.php:391
+msgid "Superslides"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:5
+msgid "Testimonials"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:121
+msgid "Testimonial items alignment"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:137
+msgid ""
+"For each testimonial item, add image, add testimonial text and testimonial "
+"auhor name, separated by new line"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:143
+msgid "Testimonial author images"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:164
+msgid "Testimonial author name"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:166
+msgid "Annette Begin,Humphrey Bogota,David Letterson"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:172
+msgid "Testimonial text"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:175
+msgid "Use new line (press Enter) for each testimonial text"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:181
+msgid "Testimonial text color"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_testimonials_params.php:190
+msgid "Testimonial author color"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_video_params.php:5
+msgid "Video player"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_video_params.php:113
+msgid "Video hosting site"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_video_params.php:132
+#: inc/functions/as-meta-boxes.php:230
+msgid "Video ID"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_video_params.php:135
+msgid "Copy only video ID here, not the whole address"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_video_params.php:142
+msgid "Video width"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_video_params.php:152
+msgid "Video height"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_widget_areas_params.php:5
+msgid "Widget area (sidebar)"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_widget_areas_params.php:122
+msgid "Widget area to display"
+msgstr ""
+
+#: as_vc_extend/shortcodes-mapping/as_widget_areas_params.php:125
+msgid "To add widgets in widget area (sidebar), go to Apparance > Widgets"
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_ajax_cats.php:113
+#: as_vc_extend/shortcodes/as_filter_cats.php:115
+#: as_vc_extend/shortcodes/as_filter_prod.php:127
+msgid "Toggle categories"
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_ajax_cats.php:262
+#: as_vc_extend/shortcodes/as_ajax_prod.php:365
+msgid "Reset categories"
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_contact.php:47
+msgid "Your email has been sent! Thank you!"
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_contact.php:54
+msgid "Please enter your name, a message and a valid email address."
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_contact.php:61
+msgid "Your email failed. Try again later."
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_contact.php:72
+msgid "Your name:"
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_contact.php:77
+msgid "Your email:"
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_contact.php:82
+msgid "Your message:"
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_contact.php:87
+msgid "Send message"
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_filter_cats.php:121
+#: as_vc_extend/shortcodes/as_filter_prod.php:133 page-lookbook.php:114
+msgid "All"
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_filter_cats.php:158
+#: as_vc_extend/shortcodes/as_filter_prod.php:167
+msgid "Default sorting"
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_filter_cats.php:159
+#: as_vc_extend/shortcodes/as_filter_prod.php:168
+msgid "Sort by Title "
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_filter_cats.php:160
+#: as_vc_extend/shortcodes/as_filter_prod.php:169
+msgid "Sort by Date Created"
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_filter_prod.php:429
+msgid ""
+"FILTERED PRODUCTS BLOCK DISABLED.<br> Sorry, it seems like WooCommerce is "
+"not active. Please install and activate last version of WooCommerce."
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_gmap.php:75
+msgid "Google maps error"
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_gmap.php:76
+msgid ""
+"Please check your address inputs - there's a probable error in data, or use "
+"manual longitude and latitude inputs."
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_prod_category.php:112
+#: as_vc_extend/shortcodes/as_single_prod_cat.php:351
+msgid "Product category name (slug) has changed, or category doesn't exist."
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_prod_cats.php:176
+msgid "Product category names (slugs) changed, or no product category exists."
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_prod_cats.php:247
+msgid ""
+"PRODUCT CATEGORIES BLOCK DISABLED.<br> Sorry, it seems like WooCommerce is "
+"not active. Please install and activate last version of WooCommerce."
+msgstr ""
+
+#: as_vc_extend/shortcodes/as_single_lookbook.php:265
+msgid ""
+"WooCommerce plugin is not installed. Please install the plugin to add "
+"product associated with lookbook item"
+msgstr ""
+
+#: author.php:37
+#, php-format
+msgid "<small>Author Archives:</small> %s"
+msgstr ""
+
+#: comments.php:18
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:29
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:30
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:31
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: content-audio.php:74 content-gallery.php:73 content-image.php:63
+#: content-page.php:19 content-single.php:185 content-video.php:80
+#: content.php:52 page-blank.php:29 page-blank_footerwidgets.php:29
+#: page-lookbook.php:307 page-page_builder.php:82
+msgid "Pages:"
+msgstr ""
+
+#: content-single-portfolio.php:249
+msgid "&laquo; Back to portfolio"
+msgstr ""
+
+#: footer.php:127
+msgid "Top"
+msgstr ""
+
+#: header-default.php:61 header-vertical.php:53
+msgid "Menu"
+msgstr ""
+
+#: header-default.php:81 header-vertical.php:91
+#: template_parts/aside_mini_wishlist.php:44
+msgid "Wishlist"
+msgstr ""
+
+#: header-default.php:88 header-vertical.php:79 searchform.php:7
+msgid "Search"
+msgstr ""
+
+#: header.php:84
+msgid "Loading..."
+msgstr ""
+
+#: inc/Custom-Meta-Boxes/classes.fields.php:361
+msgid "Add New"
+msgstr ""
+
+#: inc/Custom-Meta-Boxes/classes.fields.php:430
+msgid "Add File"
+msgstr ""
+
+#: inc/Custom-Meta-Boxes/classes.fields.php:448
+#: inc/Custom-Meta-Boxes/classes.fields.php:508
+#: woocommerce/wishlist-view.php:255
+msgid "Remove"
+msgstr ""
+
+#: inc/Custom-Meta-Boxes/classes.fields.php:496
+msgid "Add Image"
+msgstr ""
+
+#: inc/Custom-Meta-Boxes/classes.fields.php:1011
+msgid "Type to search"
+msgstr ""
+
+#: inc/Custom-Meta-Boxes/classes.fields.php:1365
+msgid "Add New Group"
+msgstr ""
+
+#: inc/functions/admin_functions.php:35
+msgid "THEME DOCUMENTATION"
+msgstr ""
+
+#: inc/functions/admin_functions.php:193
+msgid "Content"
+msgstr ""
+
+#: inc/functions/admin_functions.php:355
+msgid "Clear"
+msgstr ""
+
+#: inc/functions/admin_functions.php:356
+msgid "Default"
+msgstr ""
+
+#: inc/functions/admin_functions.php:357
+msgid "Select Color"
+msgstr ""
+
+#: inc/functions/admin_functions.php:385
+msgid "Theme portrait"
+msgstr ""
+
+#: inc/functions/admin_functions.php:386
+msgid "Theme landscape"
+msgstr ""
+
+#: inc/functions/ajax.php:109
+msgid "No product was found for this category."
+msgstr ""
+
+#: inc/functions/ajax.php:208
+msgid ""
+"AJAX PRODUCTS BLOCK DISABLED.<br> Sorry, it seems like WooCommerce is not "
+"active. Please install and activate last version of WooCommerce."
+msgstr ""
+
+#: inc/functions/ajax.php:636 template_parts/aside_mini_wishlist.php:84
+#: woocommerce/woocommerce-theme-edits.php:911
+msgid "Quick view"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:18
+msgid "Hide featured image"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:25
+msgid "Hide page title"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:26
+msgid "applies only to pages not singular posts"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:31
+msgid "Page under header"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:32
+msgid "page content \"under\" page header"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:37
+msgid "Hide pages navigation"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:38
+msgid "hide prev/next page navigation"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:67
+msgid "Upload images"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:75
+msgid "Gallery image format"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:76
+msgid "choose the format for image display in gallery."
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:81
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:82
+msgid "Medium"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:83
+msgid "ShowShop portrait"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:84
+msgid "ShowShop landscape"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:85
+msgid "Large"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:92
+msgid "Slider of images or thumbnails ?"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:104
+msgid "Thumbnails columns (if there are more then one attached image)"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:105
+msgid ""
+"type in the number of thumbnails in a row. If left empty, the default number "
+"of <strong>3</strong> will be set"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:113
+msgid "Slider navigation"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:114 inc/functions/as-meta-boxes.php:122
+msgid "add previous/next arrows (appear on hover)"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:121
+msgid "Slider pagination"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:129
+msgid "interval between slide transitions ( in milliseconds )"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:136
+msgid "Slider transition effect"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:137
+msgid "choose the slider transition effect"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:153
+msgid "Slider items in desktop"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:154
+msgid "items displayed in slider in desktop view"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:162
+msgid "Slider items in tablet"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:163
+msgid "items displayed in slider in tablet view"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:170
+msgid "Slider items in mobile"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:171
+msgid "items displayed in slider in mobile view"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:193
+msgid "Audio file"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:212
+msgid "Video host site"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:213
+msgid ""
+"choose the video host service site to fetch the video from (YouTube, Vimeo "
+"etc...)"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:231
+msgid "enter the video ID number or code, NOT the whole address"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:238
+msgid "Width of the video"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:239
+msgid "enter the width in PERCENTAGE - DO NOT ADD UNIT, JUST NUMBER"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:246
+msgid "Height of the video"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:247
+msgid "enter the height - allowed units: px, em, %"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:254
+msgid "Featured image or video thumbnails"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:255
+msgid ""
+"show post featured image or fetch thumbnail of video from video host service."
+"<br /><strong>NOTE: some services do not provide high resolution image so it "
+"is advisable to use featured image. Supported: YouTube, Screenr, Vimeo, "
+"Daily Motion and BlipTV</strong>"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:259
+msgid "Featured image"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:260
+msgid "Video host thumbnail"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:278
+msgid "Quote author"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:279
+msgid "enter the name and/or title of quote author."
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:285
+msgid "Quote author URL"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:286
+msgid "Enter full URL including http:// ."
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:292
+msgid "Avatar email for avatar image"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:293
+msgid ""
+"If quote author uses gravatar.com quote author avatar can be displayed. If "
+"set, it will override the featured image."
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:310
+msgid "NOTE:"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:315
+msgid "simply select featured image for this post"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:334
+msgid "Tagline or slogan"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:335
+msgid "optional tagline text."
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:340
+msgid "Layout mode"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:353
+msgid "Featured image format"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:368
+msgid "Number of related items"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:376
+msgid "Button URL"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:377
+msgid ""
+"If no url or no button label (next input field), no button will be displayed."
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:385
+msgid ""
+"If no label or no button url (previous input field), no button will be "
+"displayed."
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:393
+msgid "Add some more info about your project"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:455
+msgid "Custom header background image"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:456
+msgid ""
+"Replace default featured product background image header with custom image "
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:463
+msgid "Background image format"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:480
+msgid "Background image repeat"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:495
+msgid "Background image size"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:536
+msgid "Lookbook categories"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:537
+msgid "Pick the lookbook categories of lookbook items."
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:545
+msgid "Number of lookbook items"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:546
+msgid "Total items in lookbook page"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:563
+msgid "Number items in row"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:564
+msgid "How many items per row"
+msgstr ""
+
+#: inc/functions/as-meta-boxes.php:600
+msgid "Lookbook page settings"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:7
+msgid "Home"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:8
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:9
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:10
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:11
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:12
+#: woocommerce/global/breadcrumb-before2.3.php:151
+#: woocommerce/shop/breadcrumb.php:148
+msgid "Error 404"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:186
+#: woocommerce/global/breadcrumb-before2.3.php:207
+#: woocommerce/shop/breadcrumb.php:204
+msgid "Page"
+msgstr ""
+
+#: inc/functions/comments.php:11
+msgid "Pingback:"
+msgstr ""
+
+#: inc/functions/comments.php:11
+msgid "(Edit)"
+msgstr ""
+
+#: inc/functions/comments.php:35
+msgid "Comment author"
+msgstr ""
+
+#: inc/functions/comments.php:41
+#, php-format
+msgid "%1$s <span class=\"icon-clock-2 comment-icons\"></span> %2$s"
+msgstr ""
+
+#: inc/functions/comments.php:47
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/functions/comments.php:53 woocommerce/myaccount/my-address.php:45
+msgid "Edit"
+msgstr ""
+
+#: inc/functions/comments.php:63
+msgid "Reply"
+msgstr ""
+
+#: inc/functions/comments.php:94
+msgid "Anonymous"
+msgstr ""
+
+#: inc/functions/comments.php:107
+msgid "Reply to"
+msgstr ""
+
+#: inc/functions/custom-sidebars.php:35 inc/functions/custom-sidebars.php:42
+msgid "Custom Sidebar"
+msgstr ""
+
+#: inc/functions/custom-sidebars.php:65
+msgid "Choose a sidebar to display"
+msgstr ""
+
+#: inc/functions/custom-sidebars.php:72
+msgid "default"
+msgstr ""
+
+#: inc/functions/enqueue_scripts.php:97
+msgid "Loading quick view"
+msgstr ""
+
+#: inc/functions/menus.php:17
+msgid "Mega menu holder"
+msgstr ""
+
+#: inc/functions/menus.php:23
+msgid "Mega menu width"
+msgstr ""
+
+#: inc/functions/menus.php:29
+msgid "Mega menu section width"
+msgstr ""
+
+#: inc/functions/menus.php:35
+msgid "Clear for row ?"
+msgstr ""
+
+#: inc/functions/menus.php:41
+msgid "Invisible item (stretcher)"
+msgstr ""
+
+#: inc/functions/menus.php:47
+msgid "Item as section title"
+msgstr ""
+
+#: inc/functions/menus.php:53
+msgid "Custom image"
+msgstr ""
+
+#: inc/functions/menus.php:59
+msgid "Post thumb and excerpt ?"
+msgstr ""
+
+#: inc/functions/menus.php:65
+msgid "Select icon for item"
+msgstr ""
+
+#: inc/functions/menus.php:71
+msgid "Hide description"
+msgstr ""
+
+#: inc/functions/menus.php:449
+msgid "View product"
+msgstr ""
+
+#: inc/functions/menus.php:449
+msgid "Read more"
+msgstr ""
+
+#: inc/functions/misc_post_functions.php:14
+#: inc/functions/misc_post_functions.php:39
+msgid "Read More"
+msgstr ""
+
+#: inc/functions/misc_post_functions.php:21
+msgid "This post is password protected"
+msgstr ""
+
+#: inc/functions/misc_post_functions.php:47
+msgid "Edit this"
+msgstr ""
+
+#: inc/functions/misc_post_functions.php:189
+msgid "Previous : "
+msgstr ""
+
+#: inc/functions/misc_post_functions.php:193
+msgid "Next : "
+msgstr ""
+
+#: inc/functions/misc_post_functions.php:249
+msgid "Featured"
+msgstr ""
+
+#: inc/functions/misc_post_functions.php:275
+msgid "Make this item featured"
+msgstr ""
+
+#: inc/functions/pagination.php:24
+msgid "&laquo;"
+msgstr ""
+
+#: inc/functions/pagination.php:25
+msgid "&raquo;"
+msgstr ""
+
+#: inc/functions/post-meta.php:69
+msgid "author: "
+msgstr ""
+
+#: inc/functions/post-meta.php:70 inc/functions/post-meta.php:99
+#: single.php:105
+msgid "View all post by "
+msgstr ""
+
+#: inc/functions/post-meta.php:223
+msgid "More ..."
+msgstr ""
+
+#: inc/functions/theme_inc_plugins.php:170
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:161
+#: inc/tgm-plugin-activation/example.php:91
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/functions/theme_inc_plugins.php:171
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:162
+#: inc/tgm-plugin-activation/example.php:92
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/functions/theme_inc_plugins.php:172
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:163
+#: inc/tgm-plugin-activation/example.php:93
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/functions/theme_inc_plugins.php:173
+#: inc/tgm-plugin-activation/example.php:94
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/functions/theme_inc_plugins.php:184
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:175
+#: inc/tgm-plugin-activation/example.php:105
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/functions/theme_inc_plugins.php:185
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:177
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: inc/tgm-plugin-activation/example.php:106
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/functions/theme_inc_plugins.php:186
+#: inc/tgm-plugin-activation/example.php:107
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/functions/widgets.php:60
+msgid "Sidebar"
+msgstr ""
+
+#: inc/functions/widgets.php:74
+msgid "Shop sidebar"
+msgstr ""
+
+#: inc/functions/widgets.php:85
+msgid "Products page filter widgets"
+msgstr ""
+
+#: inc/functions/widgets.php:96
+msgid "Filter reset widget"
+msgstr ""
+
+#: inc/functions/widgets.php:109
+msgid "Header widgets"
+msgstr ""
+
+#: inc/functions/widgets.php:120
+msgid "Header widgets 2"
+msgstr ""
+
+#: inc/functions/widgets.php:131
+msgid "Header widgets 3"
+msgstr ""
+
+#: inc/functions/widgets.php:142
+msgid "Bottom page widgets"
+msgstr ""
+
+#: inc/functions/widgets.php:152
+msgid "Footer widgets 1"
+msgstr ""
+
+#: inc/functions/widgets.php:163
+msgid "Footer widgets 2"
+msgstr ""
+
+#: inc/functions/widgets.php:174
+msgid "Footer widgets 3"
+msgstr ""
+
+#: inc/functions/widgets.php:184
+msgid "Footer widgets 4"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:178
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1644
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:532
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1167
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1170
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1288
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1312
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1391
+#: woocommerce/myaccount/my-orders.php:44
+msgid "Status"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2070
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2070
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/widgets/latest-custom-posts.php:19
+msgid "Recent"
+msgstr ""
+
+#: inc/widgets/latest-custom-posts.php:120
+#: inc/widgets/widget_featured_images.php:227
+#: inc/widgets/widget_latest_images.php:209 inc/widgets/widget_social.php:304
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/latest-custom-posts.php:125
+#: inc/widgets/widget_latest_images.php:221
+msgid "Post type(s):"
+msgstr ""
+
+#: inc/widgets/latest-custom-posts.php:142
+msgid "Number of items for display:"
+msgstr ""
+
+#: inc/widgets/widget_featured_images.php:28
+msgid "A widget displaying featured content images."
+msgstr ""
+
+#: inc/widgets/widget_featured_images.php:34
+msgid "Featured content images"
+msgstr ""
+
+#: inc/widgets/widget_featured_images.php:233
+#: inc/widgets/widget_latest_images.php:215
+msgid "Number of images:"
+msgstr ""
+
+#: inc/widgets/widget_featured_images.php:239
+msgid "Post type:"
+msgstr ""
+
+#: inc/widgets/widget_featured_images.php:257
+#: inc/widgets/widget_latest_images.php:239
+msgid "Image sizes:"
+msgstr ""
+
+#: inc/widgets/widget_featured_images.php:282
+msgid "Image width in px or % (height is set auto):"
+msgstr ""
+
+#: inc/widgets/widget_latest_images.php:32
+msgid "A widget displaying latest content images."
+msgstr ""
+
+#: inc/widgets/widget_latest_images.php:38
+msgid "Latest content images"
+msgstr ""
+
+#: inc/widgets/widget_latest_images.php:264
+msgid "Image width in <b>px</b> or <b>%</b> (height is set auto):"
+msgstr ""
+
+#: inc/widgets/widget_social.php:20
+msgid "Display social icons on your site."
+msgstr ""
+
+#: inc/widgets/widget_social.php:26
+msgid "Social Widget"
+msgstr ""
+
+#: inc/widgets/widget_social.php:310
+msgid "RSS link:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:312
+msgid "Yes"
+msgstr ""
+
+#: inc/widgets/widget_social.php:314
+msgid "No"
+msgstr ""
+
+#: inc/widgets/widget_social.php:318
+msgid "Facebook link:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:324
+msgid "Twitter link:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:330
+msgid "LinkedIn link:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:336
+msgid "Google Plus link:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:343
+msgid "Youtube link:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:350
+msgid "Flickr link:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:358
+msgid "Vimeo link:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:365
+msgid "Pinterest link:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:371
+msgid "Dribbble link:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:377
+msgid "Forrst link:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:383
+msgid "Instagram link:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:389
+msgid "Github link:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:395
+msgid "Picassa link:"
+msgstr ""
+
+#: inc/widgets/widget_social.php:401
+msgid "Skype link:"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:14
+msgid "WooCommerce My Account Widget shows order & account data"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:15
+msgid "WooCommerce My Account"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:30
+msgid "Logged out title:"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:31
+#: inc/widgets/woocommerce-account-widget.php:106
+msgid "Customer Login"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:33
+msgid "Logged in title:"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:34
+#: inc/widgets/woocommerce-account-widget.php:108
+#, php-format
+msgid "Welcome %s"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:37
+msgid "Show link to shopping cart"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:39
+msgid "Show number of items in cart"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:43
+#: inc/widgets/woocommerce-account-widget.php:46
+msgid "Show number of uploads left"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:49
+msgid "Show number of unpaid orders"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:51
+msgid "Show number of uncompleted orders"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:53
+msgid "Show logout link"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:55
+msgid "Redirect to page after login:"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:58
+msgid "Select page"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:70
+msgid "Other options"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:72
+msgid "Login with email address"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:136
+#: inc/widgets/woocommerce-account-widget.php:221
+#: inc/widgets/woocommerce-account-widget.php:301
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:223
+msgid "product in your shopping cart"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:230
+#: inc/widgets/woocommerce-account-widget.php:239
+msgid "Upload files"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:232
+#: inc/widgets/woocommerce-account-widget.php:241
+msgid "file to upload"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:247
+msgid "Pay orders"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:249
+msgid "payment required"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:255
+msgid "View uncompleted orders"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:257
+msgid "order pending"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:262
+#: woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:263
+msgid "Log out"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:271
+msgid "Login failed, please try again"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:278
+#: woocommerce/myaccount/form-login.php:74
+msgid "Username"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:279
+#: woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-login.php:88
+msgid "Password"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:280
+msgid "Remember Me"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:281
+msgid "Log In"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:295
+msgid "Lost password?"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:298
+#: woocommerce/myaccount/form-login.php:65
+#: woocommerce/myaccount/form-login.php:102
+msgid "Register"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:359
+msgid "Please fill in your username and password"
+msgstr ""
+
+#: inc/widgets/woocommerce-account-widget.php:382
+msgid "Username or Email"
+msgstr ""
+
+#: index.php:73 page-of-posts.php:121
+msgid "No posts to display"
+msgstr ""
+
+#: index.php:77 page-of-posts.php:125
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: index.php:85 page-of-posts.php:131
+msgid "No posts found on this site"
+msgstr ""
+
+#: index.php:90
+msgid ""
+"We are sorry, but no results were found. Try search ti find a related post."
+msgstr ""
+
+#: page-lookbook.php:134
+msgid "No lookbook categories containing lookbook items selected."
+msgstr ""
+
+#: page-lookbook.php:138
+msgid "Please, do the following:"
+msgstr ""
+
+#: page-lookbook.php:140
+msgid "Make sure that some lookbook categories are created"
+msgstr ""
+
+#: page-lookbook.php:141
+msgid "Lookbook items are assigned to categories"
+msgstr ""
+
+#: page-lookbook.php:142
+msgid "In lookbook page template select lookbook categories for display"
+msgstr ""
+
+#: page-lookbook.php:146
+msgid "Currently there are no lookbook items set. Please, come back soon."
+msgstr ""
+
+#: page-lookbook.php:285
+msgid "Products from this combination"
+msgstr ""
+
+#: page-lookbook.php:302
+msgid "Products from this combination not available"
+msgstr ""
+
+#: page-of-posts.php:135
+msgid ""
+"We are sorry, but no results were found. Try search to find a related post."
+msgstr ""
+
+#: portfolio-related.php:52
+msgid "Related portfolio projects"
+msgstr ""
+
+#: search.php:32
+msgid "Your search: "
+msgstr ""
+
+#: search.php:43
+msgid "Search result(s):"
+msgstr ""
+
+#: search.php:65
+msgid "Your search \""
+msgstr ""
+
+#: search.php:65
+msgid "\" did not return any result."
+msgstr ""
+
+#: search.php:67
+msgid "Please, try to:"
+msgstr ""
+
+#: search.php:70
+msgid "click browser \"Back\" button"
+msgstr ""
+
+#: search.php:71
+msgid "use search to find what are you looking for"
+msgstr ""
+
+#: search.php:72
+msgid "or use sitemap bellow this message"
+msgstr ""
+
+#: searchform.php:5
+msgid "Type here ..."
+msgstr ""
+
+#: sidebar-custom.php:25
+msgid ""
+"You haven't set any widget for your Custom Sidebar. Please, add some widgets "
+"to fulfil this place."
+msgstr ""
+
+#: sidebar-shop.php:24 sidebar.php:21
+msgid "Meta"
+msgstr ""
+
+#: sidebar-shop.php:37
+msgid ""
+"You haven't set any widget for Shop Sidebar. Please, add some widgets or "
+"choose Full width page in theme options or page custom meta settings."
+msgstr ""
+
+#: sidebar.php:34
+msgid ""
+"You haven't set any widget for Sidebar. Please, add some widgets or choose "
+"Full width page in theme options or page custom meta settings."
+msgstr ""
+
+#: single.php:104
+msgid "by "
+msgstr ""
+
+#: site-map.php:8
+msgid "Site map"
+msgstr ""
+
+#: site-map.php:16
+msgid "Posts"
+msgstr ""
+
+#: site-map.php:44
+msgid "Pages"
+msgstr ""
+
+#: site-map.php:63
+msgid "Authors"
+msgstr ""
+
+#: tag.php:36
+msgid "Posts tagged with:"
+msgstr ""
+
+#: template_parts/aside_mini_cart.php:10 template_parts/header_cart.php:13
+#: woocommerce/woocommerce-theme-edits.php:172
+msgid "Cart"
+msgstr ""
+
+#: template_parts/aside_mini_wishlist.php:52
+msgid "Your wishlist is empty"
+msgstr ""
+
+#: template_parts/aside_mini_wishlist.php:104
+msgid "View the wishlist page"
+msgstr ""
+
+#: template_parts/aside_off_canvas_menu.php:17
+msgid "There is no menu set to this offcanvas area"
+msgstr ""
+
+#: template_parts/header_searchform.php:47
+msgid "Search here ..."
+msgstr ""
+
+#: woocommerce/add-to-wishlist-button.php:13
+#: woocommerce/woocommerce-theme-edits.php:647
+msgid "Add to wishlist"
+msgstr ""
+
+#: woocommerce/add-to-wishlist.php:13
+#: woocommerce/woocommerce-theme-edits.php:648
+msgid "Product added! Browse Wishlist"
+msgstr ""
+
+#: woocommerce/add-to-wishlist.php:14
+#: woocommerce/woocommerce-theme-edits.php:649
+msgid "The product is already in the wishlist! Browse Wishlist"
+msgstr ""
+
+#: woocommerce/archive-product.php:104
+msgid "Product filters"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:18
+msgid "Your shopping bag is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:22
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:24 woocommerce/cart/mini-cart.php:77
+#: woocommerce/checkout/review-order.php:57
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:78 woocommerce/cart/cart.php:33
+#: woocommerce/checkout/review-order.php:21
+#: woocommerce/checkout/review-order.php:111
+#: woocommerce/myaccount/my-orders.php:45
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:97
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:100
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/checkout/form-pay.php:19
+#: woocommerce/checkout/review-order.php:20
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:55 woocommerce/cart/mini-cart.php:52
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:82
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:137
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:159 woocommerce/cart/cart.php:163
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:164 woocommerce/checkout/form-coupon.php:25
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:164 woocommerce/checkout/form-coupon.php:29
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:40
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:69
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:82
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:83
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:20
+msgid "Shipping cost?"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:30
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:47
+#: woocommerce/cart/shipping-calculator.php:53
+#: woocommerce/cart/shipping-calculator.php:65
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:54
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:74
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:87
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:16
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:20
+msgid "Return To Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:15
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:19
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:38
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:49
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:59
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:20
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:21
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:54
+msgid "Payment"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:89
+msgid "Pay for order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:27
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:30
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:56
+#: woocommerce/single-product/tabs/additional-information.php:14
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28 woocommerce/myaccount/my-orders.php:78
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+msgid "Order:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/global/breadcrumb-before2.3.php:67
+#: woocommerce/shop/breadcrumb.php:64
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb-before2.3.php:95
+#: woocommerce/global/breadcrumb-before2.3.php:193
+#: woocommerce/shop/breadcrumb.php:92 woocommerce/shop/breadcrumb.php:190
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb-before2.3.php:197
+#: woocommerce/shop/breadcrumb.php:194
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb-before2.3.php:202
+#: woocommerce/shop/breadcrumb.php:199
+msgid "Author:"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:17
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:19
+msgid "Perhaps you would be interested in our product on sale: "
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:40
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:48
+msgid "Add Payment Method"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:20
+#: woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:24
+#: woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:29
+#: woocommerce/myaccount/form-lost-password.php:48
+#: woocommerce/wishlist-view.php:37
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:23
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:27
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:31
+#: woocommerce/myaccount/form-login.php:81
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:36
+msgid "Password Change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:39
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:43
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:47
+msgid "Confirm New Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:53
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:16
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:16
+#: woocommerce/myaccount/my-address.php:20
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:40
+msgid "Save Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:27
+#: woocommerce/myaccount/form-login.php:46
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:34
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:48
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:52
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:95
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:24
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:48
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid ""
+"<h3>Hello <strong>%1$s</strong> </h3>(not %1$s? <a href=\"%2$s\">Sign out</"
+"a>)"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:27
+#, php-format
+msgid ""
+"From your account dashboard you can: <ul class=\"inline-list\"><li><a href="
+"\"#my_orders\">View your recent orders</a></li><li><a href="
+"\"#manage_addresses\">Manage your shipping and billing addresses</a></"
+"li><li><a href=\"%s\">Edit your password and account details</a></li></ul>"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:18
+msgid "Available downloads"
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:27
+#, php-format
+msgid "%s download remaining"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:36
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:42
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:43
+msgid "Date"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:69
+#, php-format
+msgid "%s for %s item"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:85 woocommerce/wishlist-view.php:41
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:91
+msgid "View"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:19
+#, php-format
+msgid ""
+"Order <span class=\"label alert round\">%s</span> was placed on <span class="
+"\"label alert round\">%s</span> and is currently <span class=\"label alert "
+"round\">%s</span>."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:23 woocommerce/order/tracking.php:26
+msgid "Order Updates"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:30 woocommerce/order/tracking.php:33
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:17
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+msgid "Billing Email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:23
+msgid "Track"
+msgstr ""
+
+#: woocommerce/order/tracking.php:14
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/order/tracking.php:14
+msgid "ago"
+msgstr ""
+
+#: woocommerce/order/tracking.php:16
+msgid "and was completed"
+msgstr ""
+
+#: woocommerce/order/tracking.php:16
+msgid " ago"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%s review for %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:45
+msgid "Add Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:51
+msgid ""
+"There are no reviews yet, would you like to <a href=\"#review_form_wrapper\" "
+"class=\"inline show_review_form\" data-rel=\"prettyPhoto[inline]\" >submit "
+"yours</a>?"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:103
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:60
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:112
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:143
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:23
+msgid "Category:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:29
+msgid "Tag:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:28
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:29
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:36
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:45
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/tabs/custom-wootab.php:12
+msgid "Custom tab"
+msgstr ""
+
+#: woocommerce/single-product/tabs/custom-wootab.php:35
+msgid "Enable Custom Tab?"
+msgstr ""
+
+#: woocommerce/single-product/tabs/custom-wootab.php:35
+msgid "Enable this option to enable the custom tab on the frontend."
+msgstr ""
+
+#: woocommerce/single-product/tabs/custom-wootab.php:41
+msgid "Custom Tab Title:"
+msgstr ""
+
+#: woocommerce/single-product/tabs/custom-wootab.php:42
+msgid "Enter your custom tab title"
+msgstr ""
+
+#: woocommerce/single-product/tabs/custom-wootab.php:46
+msgid "Custom Tab Content:"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:28
+msgid "Edit title"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:86
+msgid "Product Name"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:93
+msgid "Unit Price"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:106
+msgid "Stock Status"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:152 woocommerce/wishlist-view.php:255
+msgid "Remove this product"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:182
+msgid "Free!"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:193
+msgid "Out of Stock"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:196
+msgid "In Stock"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:223
+msgid "Move"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:235
+msgid "Shared"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:238
+msgid "Private"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:241
+msgid "Public"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:265
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:282
+msgid "Add the selected products to the cart"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:290 woocommerce/wishlist-view.php:330
+msgid "Ask for an estimate"
+msgstr ""
+
+#: woocommerce/woocommerce-theme-edits.php:525
+#: woocommerce/woocommerce-theme-edits.php:558
+msgid "Search for products"
+msgstr ""
+
+#: woocommerce/woocommerce-theme-edits.php:836
+msgid "Grid view"
+msgstr ""
+
+#: woocommerce/woocommerce-theme-edits.php:837
+msgid "List view"
+msgstr ""
+
+#: woocommerce/woocommerce-theme-edits.php:984
+#, php-format
+msgid " Save %s"
+msgstr ""
