@@ -4,18 +4,15 @@
   "license": "MIT",
   "description": "A modern WordPress stack",
   "homepage": "https://roots.io/bedrock/",
-  "authors": [
-    {
-      "name": "Scott Walkinshaw",
-      "email": "scott.walkinshaw@gmail.com",
-      "homepage": "https://github.com/swalkinshaw"
-    },
-    {
-      "name": "Ben Word",
-      "email": "ben@benword.com",
-      "homepage": "https://github.com/retlehs"
-    }
-  ],
+  "authors": [{
+    "name": "Scott Walkinshaw",
+    "email": "scott.walkinshaw@gmail.com",
+    "homepage": "https://github.com/swalkinshaw"
+  }, {
+    "name": "Ben Word",
+    "email": "ben@benword.com",
+    "homepage": "https://github.com/retlehs"
+  }],
   "keywords": [
     "bedrock", "roots", "wordpress", "stack", "composer", "vagrant", "wp"
   ],
@@ -26,17 +23,15 @@
   "config": {
     "preferred-install": "dist"
   },
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "http://wpackagist.org"
-    }
-  ],
+  "repositories": [{
+    "type": "composer",
+    "url": "http://wpackagist.org"
+  }],
   "require": {
     "php": ">=5.4",
     "composer/installers": "~1.0.12",
     "vlucas/phpdotenv": "~1.0.9",
-    "johnpbloch/wordpress": "4.2.2",
+    "johnpbloch/wordpress": "4.4",
     "wpackagist-plugin/woocommerce": "2.3.11",
     "wpackagist-theme/storefront": "1.4.6",
     "wpackagist-plugin/wordpress-importer": "0.6.1"
